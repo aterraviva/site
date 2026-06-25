@@ -268,7 +268,7 @@ details[open] p {
 }
 
 .card-container{
-    width: min(90%, 1600px);
+    width: min(95%, 1600px);
     margin-inline: auto;
     padding: 3em 0;
     ul{
@@ -277,7 +277,7 @@ details[open] p {
     list-style-type: none;
     gap: 2em;
     li{
-        height: 15em;
+        height: 20em;
         border: 2px solid black;
         border-radius: .4em;
         display: flex;
