@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="986" height="1155" viewBox="0 0 986 1155" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(0 398.5 -398.5 0 398.5 398.5)">
+      <stop offset="0" stop-color="#FF0000" />
+      <stop offset="0.73" stop-color="#FFBF00" />
+      <stop offset="0.75" stop-color="#FFD58C" />
+      <stop offset="0.926" stop-color="#000000" />
+    </radialGradient>
+  </defs>
+  <g>
+    <rect width="986" height="1155" fill="#000000" fill-rule="evenodd" />
+    <path d="M0 398.5C0 178.415 178.415 0 398.5 0C618.585 0 797 178.415 797 398.5C797 618.585 618.585 797 398.5 797C178.415 797 0 618.585 0 398.5Z" fill="url(#gradient_1)" fill-rule="evenodd" transform="translate(95 170)" />
+  </g>
+</svg>
