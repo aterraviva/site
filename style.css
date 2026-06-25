@@ -509,12 +509,15 @@ caption{
 
 
 .publi-grid-container{
+  padding: 3em 0;
     width: min(90%, 1600px);
     margin-inline: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
     gap: 1em;
-
+  h2{
+    padding: 1em 0;
+  }
 }
 
 
